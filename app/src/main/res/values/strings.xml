@@ -4,5 +4,12 @@
     <string name="hello_one_fragment">Hello one fragment</string>
     <string name="hello_two_fragment">Hello two fragment</string>
     <string name="action_favorite">favorite</string>
-    <string name="action_settings">setting</string>
+    <string name="delete_all">清空所有</string>
+    <string name="add_word">add user</string>
+    <string name="hint_user_name">用户名</string>
+    <string name="hint_user_description">用户描述</string>
+    <string name="button_save">保存</string>
+    <string name="save_success">保存成功</string>
+    <string name="save_fail">保存失败</string>
+    <string name="delete_user">删除%1$3s成功</string>
 </resources>
